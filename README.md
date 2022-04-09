@@ -16,3 +16,21 @@ My study for a variety of topics and techniques in the area of web analytics. Th
   + [if, elif, and else Statements](https://github.com/Jing0831/Web-Scraping/blob/2c1a727a119637399fab21acb5e70e5a99373764/02%20if,%20elif,%20and%20else%20Statements.ipynb)<br>
   + [for Loops](https://github.com/Jing0831/Web-Scraping/blob/2c1a727a119637399fab21acb5e70e5a99373764/02%20for%20Loops.ipynb)<br>
   + [Summary Excercise](https://github.com/Jing0831/Web-Scraping/blob/2c1a727a119637399fab21acb5e70e5a99373764/02%20Summary%20Exercise.ipynb)<br>
+
+**03 - BeautifulSoup, Error, and Functions**<br> 
+  + [Introduction to BeautifulSoup](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20Introduction%20to%20BeautifulSoup.ipynb)<br>
+  + [Modules and Packages](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20Modules%20and%20Packages.ipynb)<br>
+  + [Handling Exceptions](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20Handling%20Exceptions.ipynb)<br>
+  + [Functions](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20Functions.ipynb)<br>
+  + [A toy example](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20A%20toy%20example.ipynb)<br>
+  + [Summary Exercise](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/03%20Summary%20Exercise.ipynb)<br>
+
+**04 - HTML**<br> 
+  + [Searching for Tags by Attributes](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/04%20Searching%20for%20Tags%20by%20Attributes.ipynb)<br>
+  + [Finding the List of Desired Tags](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/04%20Finding%20the%20List%20of%20Desired%20Tags.ipynb)<br>
+  + [Navigating Parse Trees](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/04%20Navigating%20Parse%20Trees.ipynb)<br>
+  + [Summary Exercise](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/04%20Summary%20Exercise.ipynb)<br>
+
+**05 - Regular Expression**<br> 
+  + [Regular Expression Functions](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/05%20Regular%20Expression%20Functions.ipynb)<br>
+  + [Regex Pattern Operators - With Exercise](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/05%20Regex%20Pattern%20Operators%20-%20With%20Exercise.ipynb)<br>
