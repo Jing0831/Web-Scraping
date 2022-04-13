@@ -33,4 +33,4 @@ My study for a variety of topics and techniques in the area of web analytics. Th
 
 **05 - Regular Expression**<br> 
   + [Regular Expression Functions](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/05%20Regular%20Expression%20Functions.ipynb)<br>
-  + [Regex Pattern Operators - With Exercise](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/05%20Regex%20Pattern%20Operators%20-%20With%20Exercise.ipynb)<br>
+  + [Regex Pattern Operators - With Exercise](https://github.com/Jing0831/Web-Scraping/blob/bbe22900bc35f3a58190f82e1289abe35cd40578/05%20Regex%20Pattern%20Operators%20-%20With%20Exercise.ipynb)<br>
