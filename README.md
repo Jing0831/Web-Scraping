@@ -38,5 +38,5 @@ My study for a variety of topics and techniques in the area of web analytics. Th
 
 
 **06 - Extra Exercise for Above Topics**<br> 
-  + [Part 1:Basic Python](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%201_Basic%20Python.ipynb)<br>
-  + [Part 2:More Scraping Exercise](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%202_Scraping%20Exercise.ipynb)<br>
+  + [Part 1: Basic Python](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%201_Basic%20Python.ipynb)<br>
+  + [Part 2: More Scraping Exercise](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%202_Scraping%20Exercise.ipynb)<br>
