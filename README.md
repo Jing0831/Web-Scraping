@@ -35,3 +35,8 @@ My study for a variety of topics and techniques in the area of web analytics. Th
   + [Regular Expression Functions](https://github.com/Jing0831/Web-Scraping/blob/e08c6f4231b1540548148135799f4b9df622a624/05%20Regular%20Expression%20Functions.ipynb)<br>
   + [Regex Pattern Operators - With Exercise](https://github.com/Jing0831/Web-Scraping/blob/bbe22900bc35f3a58190f82e1289abe35cd40578/05%20Regex%20Pattern%20Operators%20-%20With%20Exercise.ipynb)<br>
   + [GOLD MINE: Regex Cheetsheet](https://www.rexegg.com/regex-quickstart.html)<br>
+
+
+**06 - Extra Exercise for Above Topics**<br> 
+  + [Part 1:Basic Python](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%201_Basic%20Python.ipynb)<br>
+  + [Part 2:More Scraping Exercise](https://github.com/Jing0831/Web-Scraping/blob/e60e7ef4d6b6af5d805e7d3c15ee6d3a27812cee/Part%202_Scraping%20Exercise.ipynb)<br>
